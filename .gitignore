@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+AnyCPU/
+x64/
+x86/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Local databases and backups
+*.mdf
+*.ldf
+*.bak
+*.bacpac
+
+# Local configuration / secrets
+.env
+.env.*
+secrets.*
+
+# OS files
+.DS_Store
+Thumbs.db
