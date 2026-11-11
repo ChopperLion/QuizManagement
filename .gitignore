@@ -33,3 +33,4 @@ secrets.*
 .DS_Store
 Thumbs.db
 `~$BLISH_TO_GITHUB.md
+~$*.md
